@@ -21,12 +21,12 @@ Notre mission est de Centraliser, Concevoir, Développer, Automatiser nos projet
 
 L'organisation est structurée selon une hiérarchie claire et des rôles définis pour assurer gouvernance, efficacité et traçabilité.
 
-| Rôle | Resposabilité | Accès | Équipes Supervisées |
+| Rôle | Responsabilité | Accès | Équipes Supervisées |
 |:-----|:--------------|:------|:--------------------|
 | **DSI** (Directeur SI) | Gouvernance IT, décisions stratégiques, reporting exécutif | `Admin` |Toutes les équipes |
 | **RSI** (Responsable SI) | Supervision opérationnelle, coordination inter-équipes, gestion des projets | `Maintain` / `Write` | Réseaux, Systèmes, Support, Dev, DBA|
 | **AI** (Assistant Informatique) | Support niveau 2, documentation, automatisation, aide à la supervision | `Maintain` / `Write` | Ingénieurs, développeurs, stagiaires |
-| **Dev** (Développeur) | Services métier, APIs, UI/UX, App WEB | `Maintain` / `Write` | NAN |
+| **Dev** (Développeur) | Services métier, APIs, UI/UX, App WEB | `Maintain` / `Write` | N/A |
 
 > 🔑 **Accès et Permissions** : Toute demande de modification de rôle, d'accès ou d'ajout de membre doit être adressée au DSI ou RSI
 
@@ -91,7 +91,7 @@ L'organisation est structurée selon une hiérarchie claire et des rôles défin
 | Technologie | Usage | Équipes |
 |:---|:---|:---|
 | **Grafana** | Dashboards temps réel, monitoring infrastructure | Systèmes, Réseaux |
-| **Humbutu** | [À préciser : log management/monitoring ?] | Systèmes |
+| **Humbutu** | [À préciser : Outil de log management/monitoring ?] | Systèmes |
 | **Power BI** | Rapports métier, dashboards analytiques, KPIs | Développement, Management |
 
 ### Outils Bureautique et Productivité
@@ -116,7 +116,7 @@ L'organisation est structurée selon une hiérarchie claire et des rôles défin
 
 Nous suivons un workflow simplifié basé sur **GitHub Flow** pour la gestion des branches :
 
-1. **Créer une branche** : Pour chaque fonctionnalité ou correction, créez une branche depuis `main` ou `develop`
+1. **Créer une branche** : Pour chaque fonctionnalité ou correction, créez une branche depuis `main`.
    ```bash
    git checkout -b feature/description-courte
    # Ou : fix/ticket-123-description
@@ -204,9 +204,9 @@ Avant de soumettre une PR, assurez-vous que :
 
 | Rôle | Nom | Contact | Disponibilité |
 |:---|:---|:---|:---|
-| **DSI** | [À remplir] | [Email] | Lun-Ven  |
-| **RSI** | [À remplir] | [Email] | Lun-Ven  |
-| **AI** | [À remplir] | [Email] | Lun-Ven  |
+| **DSI** | <!-- TODO: Prénom Nom --> | <!-- TODO: email@sibmci.com --> | Lun-Ven |
+| **RSI** | <!-- TODO: Prénom Nom --> | <!-- TODO: email@sibmci.com --> | Lun-Ven |
+| **AI** | <!-- TODO: Prénom Nom --> | <!-- TODO: email@sibmci.com --> | Lun-Ven |
 | **Dev** | KEI PRINCE FREJUSTE | stagiaire.info@sibmci.com | Lun-Ven |
 
 
@@ -214,12 +214,12 @@ Avant de soumettre une PR, assurez-vous que :
 
 ## Ressources Utiles
 
-- [Documentation Interne (Confluence)]
-- [Dashboards Grafana (Monitoring)]
-- [Charte Graphique SIBM]
-- [Tableau de Bord Projets SCRUM]
-- [Wiki Sage X3 Interne]
-- [Runbooks et Procédures]
+- [Documentation Interne (Confluence)](<!-- TODO: URL Confluence -->)
+- [Dashboards Grafana (Monitoring)](<!-- TODO: URL Grafana -->)
+- [Charte Graphique SIBM](<!-- TODO: URL Charte Graphique -->)
+- [Tableau de Bord Projets SCRUM](<!-- TODO: URL Tableau de Bord -->)
+- [Wiki Sage X3 Interne](<!-- TODO: URL Wiki -->)
+- [Runbooks et Procédures](<!-- TODO: URL Runbooks -->)
 
 ---
 
@@ -232,6 +232,6 @@ Avant de soumettre une PR, assurez-vous que :
 
 ---
 
-*Dernière mise à jour : [18/10/2025]*  
-*Version : 1.0*  
+*Dernière mise à jour : 18/10/2025*
+*Version : 1.1*
 *Approuvé par : [DSI/RSI]*
