@@ -110,7 +110,7 @@ L'organisation est structurée selon une hiérarchie claire et des rôles défin
 
 ---
 
-## 📊 Processus et Standards de Développement
+## Processus et Standards de Développement
 
 ### Workflow de Collaboration (Git Flow)
 
@@ -171,7 +171,7 @@ Avant de soumettre une PR, assurez-vous que :
 
 ---
 
-## 🔐 Sécurité et Bonnes Pratiques
+## Sécurité et Bonnes Pratiques
 
 - **Secrets Management** : Utiliser GitHub Secrets, ne jamais commiter credentials
 - **Code Review** : Tout code production doit être revu avant fusion
@@ -183,7 +183,7 @@ Avant de soumettre une PR, assurez-vous que :
 
 ---
 
-## 🔄 Intégration Sage X3
+## Intégration Sage X3
 
 ### Principes d'Intégration
 
@@ -200,7 +200,7 @@ Avant de soumettre une PR, assurez-vous que :
 
 ---
 
-## 📞 Contacts et Escalades
+## Contacts et Escalades
 
 | Rôle | Nom | Contact | Disponibilité |
 |:---|:---|:---|:---|
@@ -212,18 +212,18 @@ Avant de soumettre une PR, assurez-vous que :
 
 ---
 
-## 🔗 Ressources Utiles
+## Ressources Utiles
 
-- 📖 [Documentation Interne (Confluence)]
-- 📊 [Dashboards Grafana (Monitoring)]
-- 🎨 [Charte Graphique SIBM]
-- 📋 [Tableau de Bord Projets SCRUM]
-- 🗂️ [Wiki Sage X3 Interne]
-- 📚 [Runbooks et Procédures]
+- [Documentation Interne (Confluence)]
+- [Dashboards Grafana (Monitoring)]
+- [Charte Graphique SIBM]
+- [Tableau de Bord Projets SCRUM]
+- [Wiki Sage X3 Interne]
+- [Runbooks et Procédures]
 
 ---
 
-## 📋 Calendrier et Planning
+## Calendrier et Planning
 
 - **Sprints** : Cycles 2 semaines
 - **Dailys** : Lun-Ven 10h00
